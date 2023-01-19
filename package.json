@@ -1,0 +1,10 @@
+{
+  "name": "Rillaz",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@klaytn/contracts": "^1.0.4"
+  },
+  "main": "index.js",
+  "license": "MIT"
+}
