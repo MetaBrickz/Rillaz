@@ -1,3 +1,0 @@
-// MRT 디플로이용 초기값
-이름 : MetaRillazGem
-심볼 : MRG
