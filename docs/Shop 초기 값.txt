@@ -1,0 +1,61 @@
+// Test net
+id: v1_rare
+preRequired: 
+contractAddress: 0x17dDA55b686E2C5347269C52ABf64415573CEF26
+mbtPrice: 10000000000000000000 = 1mbt // 1000000000000000000 = 1mbt
+
+id: v1_unique
+preRequired: v1_rare
+contractAddress: 0x17dDA55b686E2C5347269C52ABf64415573CEF26
+mbtPrice: 20000000000000000000 = 1mbt
+
+id: v1_legend
+preRequired: v1_unique
+contractAddress: 0x17dDA55b686E2C5347269C52ABf64415573CEF26
+mbtPrice: 30000000000000000000 = 1mbt
+
+id: v1_epic
+preRequired: v1_legend
+contractAddress: 0x17dDA55b686E2C5347269C52ABf64415573CEF26
+mbtPrice: 40000000000000000000 = 1mbt
+
+
+mbtreceiver: 0x9b31b34fd6ed831cc8d3898f960249b9ac83a1b9
+
+// main net
+id: v1_rare
+preRequired: 
+contractAddress: 0x1B9dFff9C454CF4b93c18B52591CA0c52A3B4cF8
+mbtPrice: 3000000000000000000000 = 3,000 mbt // 1000000000000000000 = 1mbt
+
+id: v1_unique
+preRequired: v1_rare
+contractAddress: 0x1B9dFff9C454CF4b93c18B52591CA0c52A3B4cF8
+mbtPrice: 3750000000000000000000 = 3,750 mbt
+
+id: v1_legend
+preRequired: v1_unique
+contractAddress: 0x1B9dFff9C454CF4b93c18B52591CA0c52A3B4cF8
+mbtPrice: 4750000000000000000000 = 4,750 mbt
+
+id: v1_epic
+preRequired: v1_legend
+contractAddress: 0x1B9dFff9C454CF4b93c18B52591CA0c52A3B4cF8
+mbtPrice: 6000000000000000000000 = 6,000 mbt
+
+
+mbtreceiver: 0x9b31b34fd6ed831cc8d3898f960249b9ac83a1b9
+
+MBT Shop Price
+- V1 Rare : 3,000 MBT
+- V1 Unique : 3,750 MBT
+- V1 Legend : 4,750 MBT
+- V1 Epic : 6,000 MBT
+- Mutant Potion NFT : 5,000 MBT / 100KLAY
+
+MBT Shop PCS
+- V1 Rare : x205
+- V1 Unique : x150
+- V1 Legend : x100
+- V1 Epic : x50
+- Mutant Potion NFT : x1,000

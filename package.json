@@ -1,10 +1,10 @@
 {
-  "name": "Rillaz",
-  "version": "0.1.0",
-  "private": true,
-  "dependencies": {
-    "@klaytn/contracts": "^1.0.4"
-  },
+  "name": "SoliditySmartContractRepo",
+  "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@klaytn/contracts": "^1.0.6",
+    "@openzeppelin/contracts": "^4.8.2"
+  }
 }

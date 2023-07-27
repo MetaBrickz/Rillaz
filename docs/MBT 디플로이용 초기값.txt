@@ -1,0 +1,17 @@
+// MBT 디플로이용 초기값
+이름 : MetaBrickzToken
+심볼 : MBT
+
+_minableBlock = 마이닝 시작 블록 height // 현재 블록 보다 높아야함
+_blockAmount = 1736111111111111111 // 1.73611111.... mbt
+_halfLife = 0
+_halving = 0
+_miningAmount = 273750000000000000000000000 // 273,750,000 
+initialSupplyClaimer = 우리꺼 지갑 주소
+initialSupply = 1050000000000000000000000 // 최초 물량 금액 1,050,000 MBT
+
+
+
+// 스테이킹 으로 가져갈수 있는 금액 허용치 2022-07-01 pfp v1
+136,462,550 mbt
+136462550000000000000000000
